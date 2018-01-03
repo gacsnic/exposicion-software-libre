@@ -1,4 +1,4 @@
-# ** Presentación Software Libre **
+# **Presentación Software Libre**
 
 ### Tematica
 * ¿Que es el software?
@@ -7,6 +7,7 @@
 * ¿Por que usar software libre?
 * Aceptación de usuarios.
 * Distribuciones Gnu/Linux.
+* Mitos sobre Gnu/Linux
 * Software Libre alternativo.
 
 ### ¿ A quien va dirigido ?
