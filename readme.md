@@ -1,13 +1,14 @@
 # **Presentación Software Libre**
 
 ### Tematica
-* ¿Que es el software?
-* ¿Que es Software Propietario?
-* ¿Que es Software Libre?
-* ¿Por que usar software libre?
+* ¿Qué es el software?
+* ¿Qué es código Fuente?
+* ¿Qué es Software Propietario?
+* ¿Qué es Software Libre?
+* ¿Por qué usar software libre?
 * Aceptación de usuarios.
-* Distribuciones Gnu/Linux.
-* Mitos sobre Gnu/Linux
+* Distribuciones GNU/Linux.
+* Mitos sobre GNU/Linux
 * Software Libre alternativo.
 
 ### ¿ A quien va dirigido ?
